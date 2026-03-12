@@ -52,5 +52,5 @@ Replicated advanced statistical methods including **Difference-in-Difference** a
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bence-szab-git&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
