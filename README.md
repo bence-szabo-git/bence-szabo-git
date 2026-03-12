@@ -47,10 +47,10 @@ Replicated advanced statistical methods including **Difference-in-Difference** a
 
 - **LinkedIn:** [Check out my profile](https://www.linkedin.com/in/david-bence-szabo/)
 - **Email:** bence.szabo@esmt.berlin
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bence-szab-git&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bence-szabo-git&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
