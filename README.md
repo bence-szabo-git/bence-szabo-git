@@ -9,6 +9,18 @@ Currently, at **ESMT**, I have spent the last 5 months deep-diving into data sci
 
 ---
 
+## 🏆 Highlighted Repositories
+
+<p align="center">
+  <a href="https://github.com/bence-szabo-git/Skill-Tracker-Data-Science">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bence-szabo-git&repo=Skill-Tracker-Data-Science&theme=nord&show_icons=true" alt="Highlighted Repository 1" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bence-szabo-git/CV_Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bence-szabo-git&repo=CV_Generator&theme=nord&show_icons=true" alt="Highlighted Repository 2" />
+  </a>
+</p>
+
 ## 🛠️ Skills
 
 ### 📊 Data Science & Analysis
